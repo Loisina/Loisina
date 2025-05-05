@@ -38,4 +38,4 @@ That’s why I would like to work on:
 💻 Languages:   JavaScript, Node.js, Python, HTML/CSS
 🛠️ Tools:       Express.js, MongoDB, Mongoose, Git, Postman
 📦 Learning:     React, Next.js, Docker, TypeScript
-🧪 Testing:      Jest, Supertest (in progress)
+🧪 Testing:      Postman
